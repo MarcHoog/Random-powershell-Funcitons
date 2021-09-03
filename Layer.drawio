@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T11:38:42.439Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" version="15.0.6" etag="Jz4A8YnEPYyMX50npIoF" type="github"><diagram id="NVrWfSo_Page8UMyvBCz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-03T12:20:43.001Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="FvCypjRJksvv34wpStMj" version="15.0.6" type="github">
+  <diagram id="NVrWfSo_Page8UMyvBCz" name="Page-1">
+    <mxGraphModel dx="2414" dy="-1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="2930" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-2" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="2870" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-5" value="Hypervisor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="2930" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-6" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Operating system&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="2787.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-34" value="Local Netwerk" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="2990" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-42" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2930" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-43" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2870" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-44" value="Hypervisor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2930" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-45" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Operating system&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2870" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-48" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2807.5" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-49" value="Local Netwerk" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2990" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-24" value="v" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=1;fillStyle=hachure;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="2710" width="280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-53" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Segmentation software&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2797.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-54" value="v" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=1;fillStyle=hachure;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="2780" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-15" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="2720" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-56" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Segmentation software&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="2857.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-57" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="2520" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-59" value="Hypervisor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="2427.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-60" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Operating system&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="2377.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-62" value="Local Netwerk" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="2580" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-63" value="v" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=1;fillStyle=hachure;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="2420" width="280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-64" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Segmentation software&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontStyle=1;rounded=0;sketch=1;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="2507.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-58" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="2360" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-DMjpl_tXm9VDjZ7ta1F-61" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;sketch=0;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="2310" width="280" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
