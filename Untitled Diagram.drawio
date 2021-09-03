@@ -1,10 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T19:47:10.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Ltu3HZO_dGOq738IfcL6" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T07:48:03.972Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="UXrEcrvEPfGXi4ZEo3dL" version="15.0.6" type="github">
   <diagram id="N6dI2vYZK5AX4p75L0yV" name="Page-1">
-    <mxGraphModel dx="1577" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gnmQBh9PHNG6J0-QgOnx-66" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" parent="1" vertex="1">
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-403" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;verticalAlign=top;rotation=90;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="887.19" y="2412.44" width="289.62" height="224.06" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-324" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-316" target="vXUdoicNVMOlbHnmcxw6-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1395.97" y="2260" as="sourcePoint" />
+            <mxPoint x="1244.97" y="2327.8331858407078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-401" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;verticalAlign=top;rotation=90;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="883.94" y="2010" width="289.62" height="224.06" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-332" value="" style="endArrow=none;html=1;strokeWidth=3;startArrow=none;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-317" target="vXUdoicNVMOlbHnmcxw6-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1255.97" y="2380" as="sourcePoint" />
+            <mxPoint x="1259.0251771117166" y="2341.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-169" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;verticalAlign=top;rotation=90;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="197.5" width="600" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="gnmQBh9PHNG6J0-QgOnx-66" value="-" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="gnmQBh9PHNG6J0-QgOnx-68" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" parent="1" vertex="1">
@@ -32,12 +53,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gnmQBh9PHNG6J0-QgOnx-75" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" parent="1" source="gnmQBh9PHNG6J0-QgOnx-73" target="gnmQBh9PHNG6J0-QgOnx-72" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="300" as="sourcePoint" />
-            <mxPoint x="580" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gnmQBh9PHNG6J0-QgOnx-77" value="-&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3Baspect%3Dfixed%3Bhtml%3D1%3BverticalAlign%3Dtop%3BstrokeColor%3Dnone%3Balign%3Dcenter%3BoutlineConnect%3D0%3Bshape%3Dmxgraph.citrix.tower_server%3Brounded%3D0%3Bshadow%3D0%3BpointerEvents%3D1%3BfontFamily%3DLucida%20Console%3BfillColor%3D%23F0F0F0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22240%22%20width%3D%2265%22%20height%3D%2285%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" parent="1" source="gnmQBh9PHNG6J0-QgOnx-69" target="gnmQBh9PHNG6J0-QgOnx-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="300" as="sourcePoint" />
             <mxPoint x="580" y="250" as="targetPoint" />
@@ -76,8 +91,746 @@
         <mxCell id="gxgqEs_wxyXFOE2Zzybb-13" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="70" y="145" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m55JkDnbRV2uAah7fv0c-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
-          <mxGeometry x="580" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-1" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1" source="gnmQBh9PHNG6J0-QgOnx-69" target="gnmQBh9PHNG6J0-QgOnx-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="830" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="950" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1090" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="700" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="790" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="960" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="389" y="930" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-9" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-8" target="vXUdoicNVMOlbHnmcxw6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="890" as="sourcePoint" />
+            <mxPoint x="590" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-10" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-8" target="vXUdoicNVMOlbHnmcxw6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="890" as="sourcePoint" />
+            <mxPoint x="590" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-11" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-3" target="vXUdoicNVMOlbHnmcxw6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="890" as="sourcePoint" />
+            <mxPoint x="590" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-12" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-8" target="vXUdoicNVMOlbHnmcxw6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="890" as="sourcePoint" />
+            <mxPoint x="590" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-13" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-8" target="vXUdoicNVMOlbHnmcxw6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="890" as="sourcePoint" />
+            <mxPoint x="590" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="389" y="908.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-15" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-16" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-17" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="868" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-18" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="735" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="619" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-20" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-4" target="vXUdoicNVMOlbHnmcxw6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1010" as="sourcePoint" />
+            <mxPoint x="450" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-28" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1520" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-29" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1640" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-30" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1780" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="1390" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-32" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1480" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-33" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1650" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-34" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="1620" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-35" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-34" target="vXUdoicNVMOlbHnmcxw6-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-36" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-34" target="vXUdoicNVMOlbHnmcxw6-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-37" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-29" target="vXUdoicNVMOlbHnmcxw6-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-38" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-34" target="vXUdoicNVMOlbHnmcxw6-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-39" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-34" target="vXUdoicNVMOlbHnmcxw6-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1580" as="sourcePoint" />
+            <mxPoint x="630" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-40" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="1598.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-41" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1810" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-42" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-43" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1558" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-44" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-46" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-30" target="vXUdoicNVMOlbHnmcxw6-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1700" as="sourcePoint" />
+            <mxPoint x="490" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="471" y="1630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="195" y="1830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="195" y="1680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="205" y="1558" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="195" y="1430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="679" y="1550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-57" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="295" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-58" target="vXUdoicNVMOlbHnmcxw6-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-58" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="415" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-59" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="555" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-60" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="968.5" y="165" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-61" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1552" y="255" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-62" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="425" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-64" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-63" target="vXUdoicNVMOlbHnmcxw6-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1482" y="355" as="sourcePoint" />
+            <mxPoint x="1532" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-65" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-63" target="vXUdoicNVMOlbHnmcxw6-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1482" y="355" as="sourcePoint" />
+            <mxPoint x="1532" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-67" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-115" target="vXUdoicNVMOlbHnmcxw6-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="339" as="sourcePoint" />
+            <mxPoint x="1430" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-68" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="210" as="sourcePoint" />
+            <mxPoint x="1040" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-70" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="585" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-71" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="445" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-72" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="333" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-73" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1591" y="485" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-75" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-59" target="vXUdoicNVMOlbHnmcxw6-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="475" as="sourcePoint" />
+            <mxPoint x="1160" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1581" y="325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-82" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="865" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-83" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="985" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-84" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1125" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-85" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="978.5" y="735" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-86" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="805" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-87" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1077" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-88" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="829" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-89" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-88" target="vXUdoicNVMOlbHnmcxw6-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="925" as="sourcePoint" />
+            <mxPoint x="1440" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-90" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-107" target="vXUdoicNVMOlbHnmcxw6-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="925" as="sourcePoint" />
+            <mxPoint x="1440" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-91" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-83" target="vXUdoicNVMOlbHnmcxw6-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="925" as="sourcePoint" />
+            <mxPoint x="1440" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-92" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-88" target="vXUdoicNVMOlbHnmcxw6-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="925" as="sourcePoint" />
+            <mxPoint x="1440" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-93" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-88" target="vXUdoicNVMOlbHnmcxw6-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="925" as="sourcePoint" />
+            <mxPoint x="1440" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-94" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="807.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-95" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1155" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-96" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1015" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-97" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="903" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-98" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-99" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-100" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-84" target="vXUdoicNVMOlbHnmcxw6-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="1045" as="sourcePoint" />
+            <mxPoint x="1300" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1175" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-102" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1025" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-106" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="1120" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-107" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="1098.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-109" value="VLAN1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="879" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-110" value="VLAN2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="1170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-114" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="162" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-115" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="287" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-116" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="412.75" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-119" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="550" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-120" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-63" target="vXUdoicNVMOlbHnmcxw6-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="390" as="sourcePoint" />
+            <mxPoint x="1310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-121" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-115" target="vXUdoicNVMOlbHnmcxw6-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="390" as="sourcePoint" />
+            <mxPoint x="1310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-122" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-116" target="vXUdoicNVMOlbHnmcxw6-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="390" as="sourcePoint" />
+            <mxPoint x="1310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-123" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-119" target="vXUdoicNVMOlbHnmcxw6-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="390" as="sourcePoint" />
+            <mxPoint x="1310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-63" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1331" y="395" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-69" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1331" y="373.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="188" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="320" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-126" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="450" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="588.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1210" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-130" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1210" y="395" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-133" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1210" y="264" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-134" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1210" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-170" value="HyperVisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-215" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="980.5" y="1541" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-216" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="970.5" y="1661" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-217" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="970.5" y="1801" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-218" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="979" y="1411" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-219" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1460.5" y="1501" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-220" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1480.5" y="1671" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-221" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1641.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-222" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-221" target="vXUdoicNVMOlbHnmcxw6-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390.5" y="1601" as="sourcePoint" />
+            <mxPoint x="1440.5" y="1551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-223" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-221" target="vXUdoicNVMOlbHnmcxw6-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390.5" y="1601" as="sourcePoint" />
+            <mxPoint x="1440.5" y="1551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-227" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1620" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-228" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930.5" y="1831" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-229" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930.5" y="1691" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-230" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930.5" y="1579" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-231" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930.5" y="1446" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-238" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-217" target="vXUdoicNVMOlbHnmcxw6-234">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1740" as="sourcePoint" />
+            <mxPoint x="1190" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-239" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;exitX=0.099;exitY=-0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-234" target="vXUdoicNVMOlbHnmcxw6-216">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1670" as="sourcePoint" />
+            <mxPoint x="1260" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-240" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-234" target="vXUdoicNVMOlbHnmcxw6-215">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1670" as="sourcePoint" />
+            <mxPoint x="1260" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-241" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-234" target="vXUdoicNVMOlbHnmcxw6-218">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1670" as="sourcePoint" />
+            <mxPoint x="1070" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-233" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="1594.25" width="75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-234" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1630" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-245" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1706" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-248" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-315" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="992" y="2140" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-316" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="989" y="2400" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-317" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="989" y="2540" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-318" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="990.5" y="2010" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-319" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="2100" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-320" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1480.5" y="2270" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-321" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="2240" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-322" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-321" target="vXUdoicNVMOlbHnmcxw6-319">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="2200" as="sourcePoint" />
+            <mxPoint x="1452" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-323" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-321" target="vXUdoicNVMOlbHnmcxw6-320">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="2200" as="sourcePoint" />
+            <mxPoint x="1452" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-325" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-321" target="vXUdoicNVMOlbHnmcxw6-315">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="2200" as="sourcePoint" />
+            <mxPoint x="1452" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-326" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-321" target="vXUdoicNVMOlbHnmcxw6-318">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1402" y="2200" as="sourcePoint" />
+            <mxPoint x="1452" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-327" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="2218.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-328" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="949" y="2570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-329" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="949" y="2430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-330" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="942" y="2178" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-331" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="942" y="2045" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-370" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="2060" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-365" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-370">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-367" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-370">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-361" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-370">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-371" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="2190" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-372" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-371">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-373" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-371">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-374" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-371">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-375" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1007" y="2450" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-376" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-375">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-377" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-375">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-378" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-375">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-379" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1007" y="2450" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-380" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-379">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-381" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-379">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-382" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-379">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-383" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1004" y="2590" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-384" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-383">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-385" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-383">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-386" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-383">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-389" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1510" y="2330" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-390" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-389">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-391" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-389">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-392" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-389">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-393" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1490" y="2150" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-394" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-393">
+          <mxGeometry x="0.5" width="37.5" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-395" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows_-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeColor=#F0F0F0;strokeWidth=3;fillColor=#ffffff;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-393">
+          <mxGeometry y="11.303149606299213" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-396" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-393">
+          <mxGeometry x="5" y="25.346456692913385" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-402" value="HyperVisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="996.75" y="1960" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-405" value="Fysiek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="967" y="2360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-406" value="" style="endArrow=none;html=1;fontFamily=Lucida Console;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-227" target="vXUdoicNVMOlbHnmcxw6-233">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="1650" as="sourcePoint" />
+            <mxPoint x="1120" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-246" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1433" y="2300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-407" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="1225" y="1620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-409" value="-" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="2130" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-410" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="2250" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-411" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="2390" width="65" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-412" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="164" y="2000" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-413" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="2090" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-414" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="665.5" y="2260" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-415" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="2230" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-416" value="" style="endArrow=none;html=1;strokeWidth=2;fontFamily=Lucida Console;dashed=1;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-415" target="vXUdoicNVMOlbHnmcxw6-413">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.5" y="2190" as="sourcePoint" />
+            <mxPoint x="625.5" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-417" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-415" target="vXUdoicNVMOlbHnmcxw6-414">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.5" y="2190" as="sourcePoint" />
+            <mxPoint x="625.5" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-419" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-415" target="vXUdoicNVMOlbHnmcxw6-409">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.5" y="2190" as="sourcePoint" />
+            <mxPoint x="625.5" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-420" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-415" target="vXUdoicNVMOlbHnmcxw6-412">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.5" y="2190" as="sourcePoint" />
+            <mxPoint x="625.5" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-421" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fillColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="424.5" y="2208.5" width="92" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-422" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="2420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-423" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="2280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-424" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="2168" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-425" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="115.5" y="2035" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-426" value="" style="endArrow=none;html=1;strokeWidth=3;dashed=1;" edge="1" parent="1" source="vXUdoicNVMOlbHnmcxw6-411" target="vXUdoicNVMOlbHnmcxw6-415">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435.5" y="2310" as="sourcePoint" />
+            <mxPoint x="485.5" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-429" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="639" y="2288" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-430" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="185" y="2010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="195" y="2160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-434" value="" style="group;strokeWidth=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="2170" width="77.75" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-432" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;strokeColor=none;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-434">
+          <mxGeometry x="13.5" y="8" width="46.5" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-431" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.policy;rounded=0;fontFamily=Lucida Console;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-434">
+          <mxGeometry width="77.75" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-435" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/covid-19-1/64/01-Virus-128.png" vertex="1" parent="1">
+          <mxGeometry x="709" y="1710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXUdoicNVMOlbHnmcxw6-436" value="" style="endArrow=none;html=1;strokeWidth=3;fontFamily=Lucida Console;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220.5" y="2287.995575221239" as="sourcePoint" />
+            <mxPoint x="424.5" y="2256.5831858407078" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
