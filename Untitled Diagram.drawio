@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T11:37:48.132Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="CmvuzmC3yimn7KDFC7k9" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T12:21:04.348Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="8ddLjdjnySLFIufx65Ye" version="15.0.6" type="github">
   <diagram id="N6dI2vYZK5AX4p75L0yV" name="Page-1">
-    <mxGraphModel dx="1389" dy="376" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="325" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -987,18 +987,6 @@
         </mxCell>
         <mxCell id="vXUdoicNVMOlbHnmcxw6-110" value="VLAN2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;fontStyle=1;fontSize=30;" vertex="1" parent="vXUdoicNVMOlbHnmcxw6-696">
           <mxGeometry x="335" y="435" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vXUdoicNVMOlbHnmcxw6-698" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="3330" width="280" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="vXUdoicNVMOlbHnmcxw6-699" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="3330" width="280" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="vXUdoicNVMOlbHnmcxw6-700" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="3270" width="280" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="vXUdoicNVMOlbHnmcxw6-703" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;shadow=0;pointerEvents=1;fontFamily=Lucida Console;strokeWidth=3;verticalAlign=top;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="3200" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
